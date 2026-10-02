@@ -1,0 +1,8 @@
+/config.php
+/*.zip
+/*.code-workspace
+/CONTINUE_PROMPT.md
+/PROJECT_SUMMARY.md
+/assets/style.before-redesign.css
+/.idea/
+/.vscode/
